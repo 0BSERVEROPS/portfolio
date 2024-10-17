@@ -1,0 +1,40 @@
+#header1-1 H1 {
+  color: #efefef;
+}
+#header1-1 P {
+  color: #dea7a7;
+}
+#header4-2 H1 {
+  font-size: 25px;
+}
+#header4-2 P {
+  color: #efefef;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #a38f84;
+}
+#slider-3 H1 {
+  color: #00a885;
+}
+#slider-3 P {
+  color: #efefef;
+  text-align: left;
+}
+#msg-box3-7 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-7 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#testimonials1-c .mbr-reviews__text P {
+  text-align: left;
+}
+#contacts2-h P {
+  text-align: center;
+}
